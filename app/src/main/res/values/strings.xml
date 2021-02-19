@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculateBMI</string>
+    <string name="name">Name</string>
+    <string name="enter">Enter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="textview">TextView</string>
+    <string name="calculate">Calculate</string>
+    <string name="status">Status</string>
+    <string name="kg">KG</string>
+    <string name="m">M</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+
+</resources>
